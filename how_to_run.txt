@@ -1,0 +1,21 @@
+Hi Dr.Sanchez, 
+
+I'm Peter Ho
+This is the manual for my code. 
+
+Step 1: To run it, just go to Control and run. 
+Step 2: Type rows/columns for First and Second Matrix
+Step 3: Click create --> it will show up 2 windows for X and Y Matrix
+Step 4: Type numbers that want to calculate for X and Y Matrix 
+*-Step 5-*: Click "Read" for both 2 Matrix
+Step 6: Then choose "Addition", "Subtraction", or "Multiplication" from the ComboBox to execute
+Step 7: You can save a file in any window have "Save" button (just type the name of file in the TextField
+and click save, MUST Read before)
+Step 8: You can open a file in any window have "Open" button (type the name of file in the TextField and click
+Open, MUST Read before)
+
+Note: some buttons are temporarily not working such as reset, quit, clear. 
+
+Thank you for your time reading these lines. 
+
+Have a great day, Dr.Sanchez! 
